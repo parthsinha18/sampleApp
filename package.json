@@ -1,0 +1,19 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "this is a sample app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthsinha18/sampleApp.git"
+  },
+  "author": "parth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthsinha18/sampleApp/issues"
+  },
+  "homepage": "https://github.com/parthsinha18/sampleApp#readme"
+}
